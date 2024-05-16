@@ -1,0 +1,14 @@
+sort1 uses: Bubble Sort
+How do you know?: 0.23s for random10000.txt
+                  0.74s for reversed5000.txt
+                  1.77s for sorted50000.txt
+
+sort2 uses: Merge Sort
+How do you know?: 0.078s for random10000.txt
+                  0.038s for reversed5000.txt
+                  1.996s for sorted50000.txt
+
+sort3 uses: Selection Sort
+How do you know?: 0.152s for random10000.txt
+                  0.051s for reversed5000txt
+                  3.519s for sorted50000.txt
